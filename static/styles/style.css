@@ -54,6 +54,11 @@ header a:hover, footer a:hover
    text-decoration: underline;
 }
 
+section.flex-cointaner p
+{
+   padding-bottom: 10px;
+}
+
 section
 {
    padding-top: 10%;
