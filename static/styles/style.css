@@ -142,6 +142,10 @@ section#WoringInTheMill
    background-image: url('../images/WorkingInTheMill.jpeg');
 }
 
+section.headr-links
+{
+   height: 30px;
+}
 footer {
    color: white;
    background-color: black;
